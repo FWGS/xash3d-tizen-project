@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.4" package="in.celest.xash3d.hl" version="0.19">
+	<profile name="mobile" />
+	<ui-application appid="in.celest.xash3d.hl" exec="xash" type="capp" multiple="false" taskmanage="true" nodisplay="false" launch_mode="single">
+		<icon>ic_launcher.png</icon>
+		<label>Xash3D</label>
+	</ui-application>
+	<feature name="http://tizen.org/feature/opengles.version.1_1">true</feature>
+</manifest>

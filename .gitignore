@@ -1,0 +1,8 @@
+*.o
+*.tpk
+*.so
+*.a
+xash # Xash3D main binary
+
+keystore_config.sh
+*signature*.xml
